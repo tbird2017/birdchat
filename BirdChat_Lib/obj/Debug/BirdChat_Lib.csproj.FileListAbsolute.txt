@@ -1,0 +1,5 @@
+E:\Test\BirdChat\BirdChat_Lib\bin\Debug\BirdChat_Lib.dll.config
+E:\Test\BirdChat\BirdChat_Lib\bin\Debug\BirdChat_Lib.dll
+E:\Test\BirdChat\BirdChat_Lib\bin\Debug\BirdChat_Lib.pdb
+E:\Test\BirdChat\BirdChat_Lib\obj\Debug\BirdChat_Lib.dll
+E:\Test\BirdChat\BirdChat_Lib\obj\Debug\BirdChat_Lib.pdb

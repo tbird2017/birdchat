@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BirdChat_Lib" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MsgEndString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">$$</Value>
+    </Setting>
+    <Setting Name="ServerIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="LeftChatString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">left the chat room</Value>
+    </Setting>
+    <Setting Name="ServerPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8888</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

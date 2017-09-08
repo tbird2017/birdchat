@@ -1,0 +1,12 @@
+E:\Test\BirdChat\BirdChat_Server\obj\Debug\BirdChat_Server.csprojResolveAssemblyReference.cache
+E:\Test\BirdChat\BirdChat_Server\obj\Debug\BirdChat_Server.Properties.Resources.resources
+E:\Test\BirdChat\BirdChat_Server\obj\Debug\BirdChat.Server.resources
+E:\Test\BirdChat\BirdChat_Server\obj\Debug\BirdChat_Server.csproj.GenerateResource.Cache
+E:\Test\BirdChat\BirdChat_Server\bin\Debug\BirdChat_Server.exe.config
+E:\Test\BirdChat\BirdChat_Server\bin\Debug\BirdChat_Server.exe
+E:\Test\BirdChat\BirdChat_Server\bin\Debug\BirdChat_Server.pdb
+E:\Test\BirdChat\BirdChat_Server\bin\Debug\BirdChat_Lib.dll
+E:\Test\BirdChat\BirdChat_Server\bin\Debug\BirdChat_Lib.pdb
+E:\Test\BirdChat\BirdChat_Server\bin\Debug\BirdChat_Lib.dll.config
+E:\Test\BirdChat\BirdChat_Server\obj\Debug\BirdChat_Server.exe
+E:\Test\BirdChat\BirdChat_Server\obj\Debug\BirdChat_Server.pdb
